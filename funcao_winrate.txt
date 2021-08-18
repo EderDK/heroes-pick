@@ -1,0 +1,228 @@
+Alterac Pass
+54.0%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+52.2%	Tank	Bruiser	Bruiser	Healer	Ranged 
+51.1%	Tank	Healer	Healer	Ranged 	Ranged 
+50.9%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+50.8%	Tank	Bruiser	Healer	Ranged 	Melee 
+50.7%	Tank	Bruiser	Healer	Ranged 	Ranged 
+50.2%	Tank	Healer	Ranged 	Ranged 	Melee 
+49.9%	Tank	Tank	Healer	Ranged 	Ranged 
+49.1%	Tank	Healer	Ranged 	Melee 	Melee 
+48.6%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+47.7%	Tank	Healer	Ranged 	Ranged 	Ranged 
+47.2%	Tank	Healer	Support	Ranged 	Melee 
+47.1%	Tank	Bruiser	Healer	Support	Ranged 
+45.7%	Tank	Bruiser	Healer	Healer	Ranged 
+45.2%	Tank	Tank	Healer	Ranged 	Melee 
+44.6%	Tank	Healer	Support	Ranged 	Ranged 
+43.4%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+
+Battlefield of Eternity
+53.8%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+52.7%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+51.3%	Tank	Tank	Healer	Ranged 	Ranged 
+50.9%	Tank	Bruiser	Healer	Ranged 	Ranged 
+50.6%	Tank	Healer	Ranged 	Ranged 	Ranged 
+50.2%	Tank	Healer	Ranged 	Ranged 	Melee 
+48.9%	Tank	Bruiser	Bruiser	Healer	Ranged 
+48.5%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+47.8%	Tank	Bruiser	Healer	Ranged 	Melee 
+47.3%	Tank	Healer	Healer	Ranged 	Ranged 
+47.0%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+45.8%	Tank	Bruiser	Healer	Healer	Ranged 
+42.4%	Tank	Bruiser	Healer	Support	Ranged 
+41.2%	Tank	Healer	Support	Ranged 	Ranged 
+
+Braxis Holdout
+55.6%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+55.0%	Tank	Healer	Ranged 	Melee 	Melee 
+54.0%	Tank	Bruiser	Bruiser	Healer	Ranged 
+52.7%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+51.6%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+50.9%	Tank	Bruiser	Healer	Ranged 	Ranged 
+50.2%	Tank	Bruiser	Healer	Ranged 	Melee 
+49.1%	Tank	Healer	Ranged 	Ranged 	Melee 
+46.9%	Tank	Healer	Ranged 	Ranged 	Ranged 
+46.7%	Tank	Tank	Healer	Ranged 	Ranged 
+46.2%	Tank	Healer	Support	Ranged 	Melee 
+43.7%	Tank	Bruiser	Healer	Support	Ranged 
+41.8%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+41.0%	Tank	Healer	Support	Ranged 	Ranged 
+
+Cursed Hollow
+57.8%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+56.0%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+54.4%	Tank	Healer	Healer	Ranged 	Ranged 
+52.4%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+52.4%	Tank	Bruiser	Bruiser	Healer	Ranged 
+51.0%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+50.9%	Tank	Bruiser	Healer	Ranged 	Melee 
+50.7%	Bruiser	Healer	Support	Ranged 	Ranged 
+50.6%	Tank	Bruiser	Healer	Ranged 	Ranged 
+49.6%	Tank	Tank	Healer	Ranged 	Melee 
+49.1%	Tank	Healer	Ranged 	Ranged 	Melee 
+48.7%	Tank	Healer	Ranged 	Ranged 	Ranged 
+47.3%	Tank	Bruiser	Healer	Support	Ranged 
+46.7%	Bruiser	Bruiser	Healer	Support	Ranged 
+46.4%	Tank	Tank	Healer	Ranged 	Ranged 
+46.0%	Tank	Healer	Support	Ranged 	Melee 
+45.4%	Tank	Bruiser	Healer	Healer	Ranged 
+45.4%	Tank	Healer	Support	Ranged 	Ranged 
+45.1%	Tank	Healer	Ranged 	Melee 	Melee 
+
+Dragon Shire
+54.6%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+52.8%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+52.5%	Tank	Healer	Ranged 	Melee 	Melee 
+52.2%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+50.9%	Tank	Bruiser	Healer	Ranged 	Melee 
+50.7%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+50.4%	Tank	Bruiser	Healer	Ranged 	Ranged 
+49.7%	Tank	Healer	Ranged 	Ranged 	Melee 
+49.5%	Tank	Bruiser	Bruiser	Healer	Ranged 
+47.9%	Tank	Bruiser	Healer	Support	Ranged 
+47.8%	Tank	Healer	Support	Ranged 	Ranged 
+46.9%	Tank	Healer	Support	Ranged 	Melee 
+46.7%	Tank	Healer	Ranged 	Ranged 	Ranged 
+46.0%	Tank	Tank	Healer	Ranged 	Ranged 
+42.1%	Tank	Bruiser	Healer	Healer	Ranged 
+41.3%	Tank	Tank	Healer	Ranged 	Melee 
+33.6%	Tank	Healer	Healer	Ranged 	Ranged 
+
+Garden of Terror
+55.2%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+54.4%	Tank	Bruiser	Bruiser	Healer	Ranged 
+50.7%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+50.7%	Tank	Tank	Healer	Ranged 	Ranged 
+50.7%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+50.7%	Tank	Bruiser	Healer	Ranged 	Melee 
+50.3%	Tank	Healer	Ranged 	Ranged 	Melee 
+50.3%	Tank	Bruiser	Healer	Ranged 	Ranged 
+49.5%	Tank	Healer	Ranged 	Melee 	Melee 
+49.4%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+47.9%	Tank	Healer	Ranged 	Ranged 	Ranged 
+47.4%	Tank	Healer	Support	Ranged 	Melee 
+47.1%	Tank	Bruiser	Healer	Support	Ranged 
+46.9%	Tank	Bruiser	Healer	Healer	Ranged 
+44.7%	Tank	Healer	Support	Ranged 	Ranged 
+43.2%	Tank	Healer	Healer	Ranged 	Ranged 
+41.4%	Bruiser	Healer	Support	Ranged 	Ranged 
+40.5%	Tank	Tank	Healer	Ranged 	Melee 
+
+Hanamura Temple
+53.7%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+52.1%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+51.6%	Tank	Bruiser	Healer	Ranged 	Ranged 
+49.9%	Tank	Healer	Ranged 	Ranged 	Melee 
+49.9%	Tank	Bruiser	Healer	Ranged 	Melee 
+47.9%	Tank	Healer	Support	Ranged 	Melee 
+46.8%	Tank	Bruiser	Bruiser	Healer	Ranged 
+46.7%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+46.4%	Tank	Bruiser	Healer	Support	Ranged 
+46.3%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+46.2%	Tank	Tank	Healer	Ranged 	Ranged 
+45.9%	Tank	Healer	Support	Ranged 	Ranged 
+45.7%	Tank	Healer	Ranged 	Melee 	Melee 
+45.3%	Tank	Healer	Ranged 	Ranged 	Ranged 
+44.3%	Tank	Healer	Healer	Ranged 	Ranged 
+41.9%	Tank	Bruiser	Healer	Healer	Ranged 
+
+Infernal Shrines
+53.6%	Tank	Bruiser	Bruiser	Healer	Ranged 
+53.0%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+52.3%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+50.5%	Tank	Bruiser	Healer	Ranged 	Ranged 
+50.1%	Tank	Bruiser	Healer	Ranged 	Melee 
+50.0%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+49.3%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+49.2%	Tank	Healer	Ranged 	Ranged 	Melee 
+49.0%	Tank	Healer	Support	Ranged 	Melee 
+48.7%	Tank	Healer	Ranged 	Melee 	Melee 
+48.4%	Tank	Tank	Healer	Ranged 	Ranged 
+48.3%	Tank	Healer	Ranged 	Ranged 	Ranged 
+46.0%	Tank	Bruiser	Healer	Support	Ranged 
+45.9%	Tank	Tank	Healer	Ranged 	Melee 
+45.0%	Tank	Bruiser	Healer	Healer	Ranged 
+44.5%	Tank	Healer	Healer	Ranged 	Ranged 
+44.4%	Tank	Healer	Support	Ranged 	Ranged 
+
+Sky Temple
+55.5%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+53.4%	Tank	Bruiser	Bruiser	Healer	Ranged 
+51.9%	Tank	Bruiser	Healer	Ranged 	Melee 
+51.7%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+51.1%	Bruiser	Healer	Support	Ranged 	Ranged 
+51.0%	Tank	Tank	Healer	Ranged 	Ranged 
+50.5%	Tank	Bruiser	Healer	Ranged 	Ranged 
+50.0%	Tank	Healer	Ranged 	Melee 	Melee 
+49.9%	Tank	Healer	Ranged 	Ranged 	Melee 
+48.7%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+48.3%	Tank	Bruiser	Healer	Support	Ranged 
+46.9%	Tank	Healer	Support	Ranged 	Melee 
+45.4%	Tank	Healer	Ranged 	Ranged 	Ranged 
+44.4%	Tank	Tank	Healer	Ranged 	Melee 
+44.3%	Tank	Healer	Healer	Ranged 	Ranged 
+43.6%	Tank	Bruiser	Healer	Healer	Ranged 
+43.0%	Bruiser	Healer	Support	Ranged 	Melee 
+41.7%	Tank	Healer	Support	Ranged 	Ranged 
+40.6%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+
+Tomb of the Spider Queen
+53.1%	Tank	Bruiser	Bruiser	Healer	Ranged 
+52.2%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+50.9%	Tank	Bruiser	Healer	Ranged 	Ranged 
+49.8%	Tank	Healer	Ranged 	Ranged 	Melee 
+49.7%	Tank	Bruiser	Healer	Ranged 	Melee 
+49.4%	Tank	Tank	Healer	Ranged 	Ranged 
+49.3%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+48.0%	Tank	Healer	Ranged 	Ranged 	Ranged 
+46.5%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+45.9%	Tank	Healer	Ranged 	Melee 	Melee 
+45.6%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+43.9%	Tank	Healer	Support	Ranged 	Melee 
+43.8%	Tank	Healer	Support	Ranged 	Ranged 
+41.3%	Tank	Bruiser	Healer	Support	Ranged 
+40.5%	Tank	Healer	Healer	Ranged 	Ranged 
+
+Towers of Doom
+55.3%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+53.5%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+52.8%	Tank	Healer	Ranged 	Ranged 	Melee 
+52.2%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+52.0%	Tank	Bruiser	Bruiser	Healer	Ranged 
+51.8%	Tank	Bruiser	Healer	Ranged 	Melee 
+49.7%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+49.6%	Tank	Bruiser	Healer	Ranged 	Ranged 
+49.3%	Tank	Tank	Healer	Ranged 	Ranged 
+49.2%	Tank	Tank	Healer	Ranged 	Melee 
+48.5%	Tank	Healer	Ranged 	Melee 	Melee 
+48.1%	Tank	Healer	Support	Ranged 	Melee 
+47.9%	Tank	Bruiser	Healer	Healer	Ranged 
+47.4%	Tank	Healer	Ranged 	Ranged 	Ranged 
+46.9%	Tank	Bruiser	Healer	Support	Ranged 
+46.8%	Tank	Healer	Support	Ranged 	Ranged 
+43.7%	Tank	Healer	Healer	Ranged 	Ranged 
+
+Warhead Junction
+55.7%	Tank	Bruiser	Bruiser	Healer	Ranged 
+52.8%	Bruiser	Bruiser	Healer	Ranged 	Melee 
+52.0%	Bruiser	Bruiser	Healer	Ranged 	Ranged 
+51.5%	Tank	Tank	Healer	Ranged 	Ranged 
+51.2%	Tank	Bruiser	Healer	Ranged 	Ranged 
+50.8%	Bruiser	Healer	Ranged 	Ranged 	Melee 
+50.7%	Bruiser	Healer	Support	Ranged 	Ranged 
+50.6%	Bruiser	Healer	Support	Ranged 	Melee 
+50.3%	Tank	Healer	Ranged 	Ranged 	Melee 
+50.1%	Tank	Bruiser	Healer	Ranged 	Melee 
+49.3%	Bruiser	Bruiser	Bruiser	Healer	Ranged 
+48.7%	Tank	Healer	Ranged 	Melee 	Melee 
+48.4%	Tank	Tank	Healer	Ranged 	Melee 
+48.3%	Bruiser	Healer	Ranged 	Ranged 	Ranged 
+48.1%	Tank	Healer	Support	Ranged 	Melee 
+48.1%	Bruiser	Bruiser	Healer	Support	Ranged 
+47.0%	Tank	Healer	Ranged 	Ranged 	Ranged 
+46.9%	Tank	Bruiser	Healer	Support	Melee 
+45.0%	Tank	Bruiser	Healer	Support	Ranged 
+43.6%	Tank	Healer	Healer	Ranged 	Ranged 
+42.1%	Tank	Bruiser	Healer	Healer	Ranged 
+41.8%	Tank	Healer	Support	Ranged 	Ranged 
