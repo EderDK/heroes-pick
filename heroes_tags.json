@@ -1,0 +1,530 @@
+{
+    "abathur": [
+        "Split Pusher",
+        "High Skill Cap",
+        "Unique",
+        "Soaker",
+        "Global"
+    ],
+    "alarak": [
+        "High Skill Cap",
+        "Anti Mage",
+        "Combo",
+        "Burst damage",
+        "Assassin"
+    ],
+    "alexstrasza": [
+        "Healer",
+        "Hybrid",
+        "2-in-1",
+        "High Skill Cap",
+        "Support"
+    ],
+    "ana": [
+        "Healer",
+        "Sleep",
+        "High Skill Cap",
+        "Squishy",
+        "Anti Support"
+    ],
+    "anduin": [
+        "Healer",
+        "High Skill Cap",
+        "Sustained Healing"
+    ],
+    "anubarak": [
+        "Crowd control",
+        "Diver",
+        "Interrupter",
+        "Bruiser",
+        "Siege"
+    ],
+    "artanis": [
+        "Bruiser",
+        "Tank",
+        "Auto Attacker",
+        "Sustained damage",
+        "Displacement"
+    ],
+    "arthas": [
+        "Self-sustain",
+        "Tank",
+        "Crowd control",
+        "Root",
+        "Bruiser"
+    ],
+    "auriel": [
+        "Healer",
+        "AOE Healing",
+        "Support",
+        "Waveclear",
+        "Stun"
+    ],
+    "azmodan": [
+        "Global",
+        "Siege",
+        "Split Pusher",
+        "Specialist",
+        "Burst damage"
+    ],
+    "blaze": [
+        "Crowd control",
+        "Regeneration",
+        "Tank",
+        "Waveclear",
+        "AOE Damage"
+    ],
+    "brightwing": [
+        "AOE Healing",
+        "Support",
+        "Global",
+        "Sustained Healing",
+        "Crowd control"
+    ],
+    "cassia": [
+        "Auto Attacker Counter",
+        "Assassin",
+        "Auto Attacker",
+        "Burst damage",
+        "Squishy"
+    ],
+    "chen": [
+        "Diver",
+        "Tank",
+        "Regeneration",
+        "Shields",
+        "Mobility"
+    ],
+    "chogall": [
+        "Unique",
+        "2-in-1",
+        "Poke",
+        "Tank",
+        "Engage"
+    ],
+    "chromie": [
+        "Mage",
+        "Poke",
+        "Squishy",
+        "High Skill Cap",
+        "Ranged Assassin"
+    ],
+    "dva": [
+        "Mobility",
+        "AOE Damage",
+        "Displacement",
+        "Escape",
+        "Bruiser"
+    ],
+    "deckard": [
+        "Crowd control",
+        "Sustained Healing",
+        "Burst Healing",
+        "Combo",
+        "High Skill Cap"
+    ],
+    "dehaka": [
+        "Regeneration",
+        "Ganker",
+        "Global",
+        "Waveclear",
+        "Ambusher"
+    ],
+    "diablo": [
+        "Crowd control",
+        "Tank",
+        "Engage",
+        "Displacement",
+        "Fast Respawn"
+    ],
+    "etc": [
+        "Buffer",
+        "Crowd control",
+        "Interrupter",
+        "Tank",
+        "Diver"
+    ],
+    "falstad": [
+        "Auto Attacker",
+        "Mobility",
+        "Ranged Assassin",
+        "Global Presence",
+        "Split Pusher"
+    ],
+    "fenix": [
+        "Waveclear",
+        "AOE Damage",
+        "Escape",
+        "Poke",
+        "Self-sustain"
+    ],
+    "garrosh": [
+        "Displacement",
+        "Crowd control",
+        "Tank",
+        "Stun",
+        "High Skill Cap"
+    ],
+    "gazlowe": [
+        "Siege",
+        "Split Pusher",
+        "Combo",
+        "AOE Damage",
+        "Mercenaries"
+    ],
+    "genji": [
+        "Finisher",
+        "Mobility",
+        "Poke",
+        "Diver",
+        "High Skill Cap"
+    ],
+    "greymane": [
+        "Hybrid",
+        "Assassin",
+        "Burst damage",
+        "Diver",
+        "Ambusher"
+    ],
+    "guldan": [
+        "AOE Damage",
+        "Mage",
+        "Self-sustain",
+        "Sustained damage",
+        "Waveclear"
+    ],
+    "hanzo": [
+        "Ranged Assassin",
+        "Vision",
+        "High Skill Cap",
+        "Poke",
+        "Squishy"
+    ],
+    "illidan": [
+        "Diver",
+        "Assassin",
+        "Auto Attacker",
+        "Sustained damage",
+        "High Skill Cap"
+    ],
+    "imperius": [
+        "Bruiser",
+        "Engage",
+        "Displacement",
+        "Self-sustain"
+    ],
+    "jaina": [
+        "Squishy",
+        "Waveclear",
+        "AOE Damage",
+        "Mage",
+        "Burst damage"
+    ],
+    "johanna": [
+        "Waveclear",
+        "Tank",
+        "Crowd control",
+        "Interrupter",
+        "Peeler"
+    ],
+    "junkrat": [
+        "AOE Damage",
+        "Waveclear",
+        "Displacement",
+        "Poke",
+        "High Skill Cap"
+    ],
+    "kaelthas": [
+        "Burst damage",
+        "Mage",
+        "AOE Damage",
+        "Squishy",
+        "Waveclear"
+    ],
+    "kelthuzad": [
+        "Mage",
+        "AOE Damage",
+        "Burst damage",
+        "High Skill Cap",
+        "Crowd control"
+    ],
+    "kerrigan": [
+        "Combo",
+        "Diver",
+        "Stun",
+        "Melee Assassin",
+        "Burst damage"
+    ],
+    "kharazim": [
+        "Auto Attacker",
+        "Buffer",
+        "Healer",
+        "Hybrid",
+        "Utility"
+    ],
+    "leoric": [
+        "Fast Respawn",
+        "Waveclear",
+        "Bruiser",
+        "Self-sustain",
+        "Anti Tank"
+    ],
+    "lili": [
+        "Blind",
+        "Healer",
+        "Sustained Healing",
+        "Support",
+        "Easy"
+    ],
+    "li-ming": [
+        "Squishy",
+        "Poke",
+        "Burst damage",
+        "Mage",
+        "Assassin"
+    ],
+    "ltmorales": [
+        "Healer",
+        "Channeled Heal",
+        "Squishy",
+        "Sustained Healing",
+        "Positioning"
+    ],
+    "lucio": [
+        "Healer",
+        "Support",
+        "Sustained Healing",
+        "Displacement",
+        "Buffer"
+    ],
+    "lunara": [
+        "Vision",
+        "DOT",
+        "Squishy",
+        "Sustained damage",
+        "Ranged Assassin"
+    ],
+    "maiev": [
+        "Assassin",
+        "Ganker",
+        "Combo",
+        "Diver",
+        "Escape"
+    ],
+    "malganis": [
+        "Tank",
+        "Self-sustain",
+        "Bruiser",
+        "Stun"
+    ],
+    "malfurion": [
+        "Mana Battery",
+        "Rooter",
+        "Heal Over Time",
+        "Sustained Healing",
+        "Regeneration"
+    ],
+    "malthael": [
+        "Anti Tank",
+        "Sustained damage",
+        "Melee Assassin",
+        "Self-heal",
+        "Jungler"
+    ],
+    "medivh": [
+        "High Skill Cap",
+        "Vision",
+        "Utility",
+        "Escape",
+        "Poke"
+    ],
+    "mephisto": [
+        "AOE Damage",
+        "Diver",
+        "Mage",
+        "Poke",
+        "Ranged Assassin"
+    ],
+    "muradin": [
+        "Ranged Stun",
+        "Tank",
+        "Crowd control",
+        "Interrupter",
+        "Mobility"
+    ],
+    "murky": [
+        "Split Pusher",
+        "Fast Respawn",
+        "Unique",
+        "Siege",
+        "Waveclear"
+    ],
+    "nazeebo": [
+        "Damage Over Time",
+        "Late Game",
+        "Poke",
+        "Siege",
+        "Sustained damage"
+    ],
+    "nova": [
+        "Burst damage",
+        "Ganker",
+        "Squishy",
+        "Stealth",
+        "Ambusher"
+    ],
+    "orphea": [
+        "Assassin",
+        "Burst damage",
+        "Sustained damage",
+        "Waveclear",
+        "Self-sustain"
+    ],
+    "probius": [
+        "Waveclear",
+        "Zone Control",
+        "Burst damage",
+        "Siege",
+        "Unique"
+    ],
+    "ragnaros": [
+        "Waveclear",
+        "AOE Damage",
+        "Assassin",
+        "Mage",
+        "Counter Pusher"
+    ],
+    "raynor": [
+        "Auto Attacker",
+        "Sustained damage",
+        "Easy",
+        "Ranged Assassin",
+        "Poke"
+    ],
+    "rehgar": [
+        "Healer",
+        "Janitor",
+        "Buffer",
+        "Hybrid",
+        "Support"
+    ],
+    "rexxar": [
+        "Pet",
+        "2-in-1",
+        "Solo Laner",
+        "Stun",
+        "Unique"
+    ],
+    "samuro": [
+        "Assassin",
+        "Auto Attacker",
+        "Escape",
+        "Melee Assassin",
+        "Stealth"
+    ],
+    "sgthammer": [
+        "Auto Attacker",
+        "Siege",
+        "Specialist",
+        "Squishy",
+        "Sustained damage"
+    ],
+    "sonya": [
+        "Bruiser",
+        "Sustained damage",
+        "Solo Laner",
+        "Ambusher",
+        "Melee Assassin"
+    ],
+    "stitches": [
+        "Displacement",
+        "Hook",
+        "Tank",
+        "Damage Over Time",
+        "Peel"
+    ],
+    "stukov": [
+        "Healer",
+        "Crowd control",
+        "Displacement",
+        "Sustained Healing",
+        "Burst Healing"
+    ],
+    "sylvanas": [
+        "Siege",
+        "Ranged",
+        "Disabler",
+        "Waveclear",
+        "Debuffer"
+    ],
+    "tassadar": [
+        "Vision",
+        "Shields",
+        "Utility",
+        "Waveclear",
+        "Ranged Assassin"
+    ],
+    "thebutcher": [
+        "Ambusher",
+        "Diver",
+        "Melee Assassin",
+        "Auto Attacker",
+        "Burst damage"
+    ],
+    "thelostvikings": [
+        "3-in-1",
+        "Split Pusher",
+        "Specialist",
+        "XP Soak",
+        "Global"
+    ],
+    "thrall": [
+        "Self-sustain",
+        "Melee Assassin",
+        "Solo Laner",
+        "Crowd control",
+        "Bruiser"
+    ],
+    "tracer": [
+        "Escape",
+        "Mobility",
+        "Assassin",
+        "Auto Attacker",
+        "Squishy"
+    ],
+    "tychus": [
+        "Anti Tank",
+        "Close Range",
+        "Sustained damage",
+        "Assassin",
+        "Janitor"
+    ],
+    "tyrael": [
+        "Diver",
+        "Engage",
+        "Bruiser",
+        "Utility",
+        "Buffer"
+    ],
+    "tyrande": [
+        "Ranged Stun",
+        "Scout",
+        "Utility",
+        "Debuffer",
+        "Support"
+    ],
+    "uther": [
+        "Burst Healing",
+        "Healer",
+        "Stun",
+        "Disrupter",
+        "Crowd control"
+    ],
+    "valeera": [
+        "Ganker",
+        "Stun",
+        "Burst damage",
+        "Stealth",
+        "Utility"
+    ]
+}
