@@ -27,7 +27,7 @@ lista = [ "WarheadJunction",
          ]
 
 url = [
-    r"https://www.hotslogs.com/Sitewide/HeroAndMapStatistics?Map=Warhead%20Junction"
+    r"https://www.hotslogs.com/Sitewide/HeroAndMapStatistics?Map=Warhead%20Junction",
     r"https://www.hotslogs.com/Sitewide/HeroAndMapStatistics?Map=Towers%20of%20Doom",
     r"https://www.hotslogs.com/Sitewide/HeroAndMapStatistics?Map=Tomb%20of%20the%20Spider%20Queen",
     r"https://www.hotslogs.com/Sitewide/HeroAndMapStatistics?Map=Sky%20Temple",
